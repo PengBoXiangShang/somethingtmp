@@ -1,4 +1,4 @@
 # something
 
-|  paper   | link  | code |
-|  ----  | ----  | ---- |
+| year |  paper title   | link  | code |
+|  ----  |  ----  | ----  | ---- |
